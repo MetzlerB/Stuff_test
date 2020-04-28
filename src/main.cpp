@@ -5,6 +5,8 @@ void setup() {
   pinMode(6, INPUT);
 }
 
+//hello this is a comment
+
 void loop() {
   // put your main code here, to run repeatedly:
 
