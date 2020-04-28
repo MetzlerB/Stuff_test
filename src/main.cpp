@@ -9,8 +9,8 @@ void loop() {
   // put your main code here, to run repeatedly:
 
   if(digitalRead(6)){
-    digitalWrite(3, LOW);
+    digitalWrite(3, LOW); //aus
   }else{
-    digitalWrite(3, HIGH);
+    digitalWrite(3, HIGH); //ein
   }
 }
